@@ -2,8 +2,8 @@
 
 This is a set of sublementary examples for [rosR](https://gitlab.com/OvGU-ESS/rosR.git) language extension.
 
-|||
-|-|-|
+| | |
+| ----------- | ---------------------------------------------------------------------------------------- |
 | Authors     | André Dietrich & Sebastian Zug                                                           |
 | Source      | `git clone` https://gitlab.com/OvGU-ESS/rosR_demos.git                                   |
 | Email       | <mailto:dietrich@ivs.cs.uni-magdeburg.de> & <mailto:zug@ivs.cs.uni-magdeburg.de>         |
