@@ -6,6 +6,7 @@ project(rosR_demos)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rosbag
+  genmsg
 )
 
 ## System dependencies are found with CMake's conventions
